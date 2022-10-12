@@ -1,0 +1,11 @@
+E:\Homework statistica\Homework\Homework2_csv_parser\Homework2_csv_parser\bin\Debug\Homework2_csv_parser.exe.config
+E:\Homework statistica\Homework\Homework2_csv_parser\Homework2_csv_parser\bin\Debug\Homework2_csv_parser.exe
+E:\Homework statistica\Homework\Homework2_csv_parser\Homework2_csv_parser\bin\Debug\Homework2_csv_parser.pdb
+E:\Homework statistica\Homework\Homework2_csv_parser\Homework2_csv_parser\obj\Debug\Homework2_csv_parser.csproj.AssemblyReference.cache
+E:\Homework statistica\Homework\Homework2_csv_parser\Homework2_csv_parser\obj\Debug\Homework2_csv_parser.csproj.SuggestedBindingRedirects.cache
+E:\Homework statistica\Homework\Homework2_csv_parser\Homework2_csv_parser\obj\Debug\Homework2_csv_parser.Form1.resources
+E:\Homework statistica\Homework\Homework2_csv_parser\Homework2_csv_parser\obj\Debug\Homework2_csv_parser.Properties.Resources.resources
+E:\Homework statistica\Homework\Homework2_csv_parser\Homework2_csv_parser\obj\Debug\Homework2_csv_parser.csproj.GenerateResource.cache
+E:\Homework statistica\Homework\Homework2_csv_parser\Homework2_csv_parser\obj\Debug\Homework2_csv_parser.csproj.CoreCompileInputs.cache
+E:\Homework statistica\Homework\Homework2_csv_parser\Homework2_csv_parser\obj\Debug\Homework2_csv_parser.exe
+E:\Homework statistica\Homework\Homework2_csv_parser\Homework2_csv_parser\obj\Debug\Homework2_csv_parser.pdb
