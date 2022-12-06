@@ -1,0 +1,11 @@
+C:\Users\danie\source\repos\SimpleRandomdWalk\SimpleRandomdWalk\obj\Debug\SimpleRandomdWalk.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\SimpleRandomdWalk\SimpleRandomdWalk\obj\Debug\SimpleRandomdWalk.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\source\repos\SimpleRandomdWalk\SimpleRandomdWalk\obj\Debug\SimpleRandomdWalk.Form1.resources
+C:\Users\danie\source\repos\SimpleRandomdWalk\SimpleRandomdWalk\obj\Debug\SimpleRandomdWalk.Properties.Resources.resources
+C:\Users\danie\source\repos\SimpleRandomdWalk\SimpleRandomdWalk\obj\Debug\SimpleRandomdWalk.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\SimpleRandomdWalk\SimpleRandomdWalk\obj\Debug\SimpleRandomdWalk.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\SimpleRandomdWalk\SimpleRandomdWalk\bin\Debug\SimpleRandomdWalk.exe.config
+C:\Users\danie\source\repos\SimpleRandomdWalk\SimpleRandomdWalk\bin\Debug\SimpleRandomdWalk.exe
+C:\Users\danie\source\repos\SimpleRandomdWalk\SimpleRandomdWalk\bin\Debug\SimpleRandomdWalk.pdb
+C:\Users\danie\source\repos\SimpleRandomdWalk\SimpleRandomdWalk\obj\Debug\SimpleRandomdWalk.exe
+C:\Users\danie\source\repos\SimpleRandomdWalk\SimpleRandomdWalk\obj\Debug\SimpleRandomdWalk.pdb

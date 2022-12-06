@@ -1,0 +1,11 @@
+C:\Users\danie\source\repos\PRGuniform\PRGuniform\obj\Debug\PRGuniform.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\PRGuniform\PRGuniform\obj\Debug\PRGuniform.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\source\repos\PRGuniform\PRGuniform\obj\Debug\PRGuniform.Form1.resources
+C:\Users\danie\source\repos\PRGuniform\PRGuniform\obj\Debug\PRGuniform.Properties.Resources.resources
+C:\Users\danie\source\repos\PRGuniform\PRGuniform\obj\Debug\PRGuniform.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\PRGuniform\PRGuniform\obj\Debug\PRGuniform.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PRGuniform\PRGuniform\bin\Debug\PRGuniform.exe.config
+C:\Users\danie\source\repos\PRGuniform\PRGuniform\bin\Debug\PRGuniform.exe
+C:\Users\danie\source\repos\PRGuniform\PRGuniform\bin\Debug\PRGuniform.pdb
+C:\Users\danie\source\repos\PRGuniform\PRGuniform\obj\Debug\PRGuniform.exe
+C:\Users\danie\source\repos\PRGuniform\PRGuniform\obj\Debug\PRGuniform.pdb
