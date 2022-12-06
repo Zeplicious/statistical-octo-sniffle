@@ -1,0 +1,11 @@
+C:\Users\danie\source\repos\generateGaussian\generateGaussian\obj\Debug\generateGaussian.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\generateGaussian\generateGaussian\obj\Debug\generateGaussian.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\source\repos\generateGaussian\generateGaussian\obj\Debug\generateGaussian.Form1.resources
+C:\Users\danie\source\repos\generateGaussian\generateGaussian\obj\Debug\generateGaussian.Properties.Resources.resources
+C:\Users\danie\source\repos\generateGaussian\generateGaussian\obj\Debug\generateGaussian.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\generateGaussian\generateGaussian\obj\Debug\generateGaussian.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\generateGaussian\generateGaussian\bin\Debug\generateGaussian.exe.config
+C:\Users\danie\source\repos\generateGaussian\generateGaussian\bin\Debug\generateGaussian.exe
+C:\Users\danie\source\repos\generateGaussian\generateGaussian\bin\Debug\generateGaussian.pdb
+C:\Users\danie\source\repos\generateGaussian\generateGaussian\obj\Debug\generateGaussian.exe
+C:\Users\danie\source\repos\generateGaussian\generateGaussian\obj\Debug\generateGaussian.pdb
