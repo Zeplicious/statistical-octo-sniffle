@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\bin\Debug\net6.0-windows\MovingRectangle.exe
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\bin\Debug\net6.0-windows\MovingRectangle.deps.json
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\bin\Debug\net6.0-windows\MovingRectangle.runtimeconfig.json
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\bin\Debug\net6.0-windows\MovingRectangle.dll
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\bin\Debug\net6.0-windows\MovingRectangle.pdb
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\obj\Debug\net6.0-windows\MovingRectangle.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\obj\Debug\net6.0-windows\MovingRectangle.Form1.resources
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\obj\Debug\net6.0-windows\MovingRectangle.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\obj\Debug\net6.0-windows\MovingRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\obj\Debug\net6.0-windows\MovingRectangle.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\obj\Debug\net6.0-windows\MovingRectangle.AssemblyInfo.cs
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\obj\Debug\net6.0-windows\MovingRectangle.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\obj\Debug\net6.0-windows\MovingRectangle.dll
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\obj\Debug\net6.0-windows\refint\MovingRectangle.dll
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\obj\Debug\net6.0-windows\MovingRectangle.pdb
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\obj\Debug\net6.0-windows\MovingRectangle.genruntimeconfig.cache
+C:\Users\danie\source\repos\MovingRectangle\MovingRectangle\obj\Debug\net6.0-windows\ref\MovingRectangle.dll

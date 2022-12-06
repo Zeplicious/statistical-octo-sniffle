@@ -1,0 +1,11 @@
+C:\Users\danie\source\repos\histograms\histograms\bin\Debug\histograms.exe.config
+C:\Users\danie\source\repos\histograms\histograms\bin\Debug\histograms.exe
+C:\Users\danie\source\repos\histograms\histograms\bin\Debug\histograms.pdb
+C:\Users\danie\source\repos\histograms\histograms\obj\Debug\histograms.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\histograms\histograms\obj\Debug\histograms.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\source\repos\histograms\histograms\obj\Debug\histograms.Form1.resources
+C:\Users\danie\source\repos\histograms\histograms\obj\Debug\histograms.Properties.Resources.resources
+C:\Users\danie\source\repos\histograms\histograms\obj\Debug\histograms.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\histograms\histograms\obj\Debug\histograms.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\histograms\histograms\obj\Debug\histograms.exe
+C:\Users\danie\source\repos\histograms\histograms\obj\Debug\histograms.pdb
