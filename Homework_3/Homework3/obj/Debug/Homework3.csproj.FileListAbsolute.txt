@@ -1,0 +1,11 @@
+E:\Homework statistica\Homework\Homework3\Homework3\obj\Debug\Homework3.csproj.AssemblyReference.cache
+E:\Homework statistica\Homework\Homework3\Homework3\obj\Debug\Homework3.csproj.SuggestedBindingRedirects.cache
+E:\Homework statistica\Homework\Homework3\Homework3\obj\Debug\Homework3.Form1.resources
+E:\Homework statistica\Homework\Homework3\Homework3\obj\Debug\Homework3.Properties.Resources.resources
+E:\Homework statistica\Homework\Homework3\Homework3\obj\Debug\Homework3.csproj.GenerateResource.cache
+E:\Homework statistica\Homework\Homework3\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+E:\Homework statistica\Homework\Homework3\Homework3\bin\Debug\Homework3.exe.config
+E:\Homework statistica\Homework\Homework3\Homework3\bin\Debug\Homework3.exe
+E:\Homework statistica\Homework\Homework3\Homework3\bin\Debug\Homework3.pdb
+E:\Homework statistica\Homework\Homework3\Homework3\obj\Debug\Homework3.exe
+E:\Homework statistica\Homework\Homework3\Homework3\obj\Debug\Homework3.pdb
